@@ -1,0 +1,12 @@
+{
+    "plugins": [
+      {
+        "id": "generate-variations",
+        "title": "Generate Variations",
+        "url": "https://experience.adobe.com/#/@splunk/aem/generate-variations/",
+        "passConfig": true,
+        "environments": ["preview","live", "edit"],
+        "includePaths": ["**.docx**"]
+      }
+    ]
+  }
